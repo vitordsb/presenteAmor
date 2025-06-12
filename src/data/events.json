@@ -1,0 +1,161 @@
+[
+  {
+    "date": "07/03",
+    "title": "Nos conhecemos",
+    "description": "O dia em que tudo começou. Nosso primeiro encontro e o início da nossa história. Foi engraçado que uma imagem foi o que fez ela se apaixonar por mim, o que não faz nenhum sentido kkkk",
+    "image": "primeira.jpg",
+    "quiz": {
+      "question": "Qual foi a primeira impressão que você teve de mim?",
+      "options": ["Amor à primeira foto", "Bixo estranho, mas legal", "Chato, não gostei muito", "Ainda não tenho certeza kk"],
+      "answer": "Amor à primeira foto"
+    }
+  },
+  {
+    "date": "16/03",
+    "title": "Primeiro papo longo",
+    "description": "Dia da nossa primeria conversa, onde começamos a mostrar o por que eramos solteiros kkkk.",
+    "image": "segunda.jpg",
+    "quiz": {
+      "question": "Qual foi nossa primeira conversa?",
+      "options": ["Animes", "Harry Potter", "Xadrez", " Marvel"],
+      "answer": "Xadrez"
+    }
+  },
+  {
+    "date": "23/03",
+    "title": "Primeira declaração",
+    "description": "O dia em que eu não sabia se tava no momento certo, mas se eu não arriscasse seria pior, ja te amava muito pra deixar escondido.",
+    "image": "terceira.jpg",
+    "quiz": {
+      "question": "O eu fiz nessa conversa que te deixou mais irritada?",
+      "options": ["Ignorar a mensagem", "Falar de outro assunto", "Mandar um cachorro dançando", " Não fiz nada "],
+      "answer": "Mandar um cachorro dançando"
+    }
+  },
+  {
+    "date": "26/03",
+    "title": "Primeiro eu te amo e conversa mais longa que tivemos",
+    "description": "Um marco importante na nossa relação, com a primeira declaração de amor e uma madrugada inesquecível.",
+    "image": "quarta.jpg",
+    "quiz": {
+      "question": "Até que horas foi a nossa primeira conversa longa?",
+      "options": ["Até as 5h AM", "Até as 3h AM", "Até 1h AM", " Até 2h AM"],
+      "answer": "Até as 5h AM"
+    }
+  },
+  {
+    "date": "11/05",
+    "title": "Cabulando aula a primeira vez",
+    "description": "A primeira vez cabulando na minha vida, tinha que ser com vc kkkk.",
+    "image": "decimap.jpeg",
+    "quiz": {
+      "question": "Onde nós cabulamos a primeira vez?",
+      "options": ["Na minha casa", "Na sua casa", "No shopping", "No terminal"],
+      "answer": "No terminal"
+    }
+  },
+  {
+    "date": "24/05",
+    "title": "Primeiro beijo",
+    "description": "O primeiro beijo, um momento mágico e inesquecível.",
+    "image": "decima.jpeg",
+    "quiz": {
+      "question": "Que foi no cinema nós sabemos, mas qual filme tivemos o primeiro beijo?",
+      "options": ["Filme dos guardiões da galáxia", "Homem aranha sem volta pra casa ", "Thor amor e trovão", "Jogos vorazes"],
+      "answer": "Filme dos guardiões da galáxia"
+    }
+  },
+  {
+    "date": "25/05",
+    "title": "Primeiro cabulas no shopping",
+    "description": "Mais uma aventura juntos, zoando no shopping",
+    "image": "oitava.jpeg",
+    "quiz": {
+      "question": "Nesse dia, quando voltamos para a sua casa, quem encontramos?",
+      "options": ["Meu pai", "Sua mãe", "Minha irmã", "Sua irmã"],
+      "answer": "Sua irmã"
+    }
+  },
+  {
+    "date": "10/06",
+    "title": "Os dois deitados na cama",
+    "description": "Primeira vez deitados juntamente confotavel na minha casa.",
+    "image": "sexta.jpeg",
+    "quiz": {
+      "question": "Em que lugar nos deitamos?",
+      "options": ["Na cama da minha sobrinha", "Na cama da minha irmã", "Na cama da sua mãe", "No chão"],
+      "answer": "Na cama da minha sobrinha"
+    }
+  },
+  {
+    "date": "19/06",
+    "title": "Pedido de namoro (v2)",
+    "description": "Nós tivemos que fazer uma outra versão do pedido de namoro, pois o primeiro não foi muito bem um pedido.",
+    "image": "setima.jpeg",
+    "quiz": {
+      "question": "O que nós decidimos?",
+      "options": ["Que seria entre o meu aniversário e o seu", "Ainda não tinhamos certeza se era pra ser namoro", "por que mercúrio estava retrogado", "Por que Deus quis"],
+      "answer": "Que seria entre o meu aniversário e o seu"
+    }
+
+  },
+  {
+    "date": "09/09",
+    "title": "Conhecendo a sogra e indo pra minha casa",
+    "description": "Um dia importante onde conheci minha sogra num almoço de sábado.",
+    "image": "decimat.jpeg",
+    "quiz": {
+      "question": "Aconteceu algo engraçado, o que foi?",
+      "options": ["Ela ficou com vergonha por ter ido no banheiro na hora de pagar", "Eu derrubei comida em mim", "Ninguem pagou a conta do restaurante", "o cartão de ninguem passava"],
+      "answer": "Que seria entre o meu aniversário e o seu?"
+    }
+  },
+
+  {
+    "date": "30/09",
+    "title": "Ensinando mozão a andar de bicicleta no cemucam",
+    "description": "Ensinei ela a andar de bicicleta no cemucam, um dia muito legal.",
+    "image": "video1.mp4",
+    "quiz": {
+      "question": "Eai, ela conseguiu?",
+      "options": ["Ela ficou com vergonha mas conseguiu", "Ela conseguiu e ficou profissional", "Ela conseguiu e caiu algumas vezes", "Ela não conseguiu e caiu todas as vezes"],
+      "answer": "Ela ficou com vergonha mas conseguiu"
+    }
+
+  },
+  {
+    "date": "15/11",
+    "title": "Dia da pscina la na minha casa",
+    "description": "Nos divertimos na pscina em casa, brincando muito e com a familia",
+    "image": "decimaq.jpeg",
+    "quiz": {
+      "question": "O que fizemos depois nesse dia???",
+      "options": ["Safadeza", "Assistimos filme", "Saimos para o shopping", "Fomos dormir"],
+      "answer": "Fomos dormir"
+    }
+  },
+  {
+    "date": "25/12",
+    "title": "Dormindo na casa da sogra",
+    "description": "Passando o Natal com a família da Victorya.",
+    "image": "sla.jpeg",
+    "quiz": {
+      "question": "Fui trolado nesse dia, o que houve?",
+      "options": ["Tiraram minha foto eu dormindo", "Tiraram minha foto eu comendo", "Tiraram uma foto eu cagando", "Não fizeram nada"],
+      "answer": "Tiraram minha foto eu dormindo"
+    }
+
+  },
+  {
+    "date": "29/12",
+    "title": "Primeira serie terminada",
+    "description": "Finalmente terminamos a merda de uma serie juntos kkkk foi muito especial.",
+    "image": "sla2.jpeg",
+    "quiz": {
+      "question": "Qual serie nos terminamos?",
+      "options": ["How i met your mother", "The big bang teory", "Suits", "Sex education"],
+      "answer": "Sex education"
+    }
+  }
+]
+
